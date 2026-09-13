@@ -1,6 +1,6 @@
 <div align="center"><img src="./github-banner.png"
      width="100%"
-     alt="Prajienkanth - Artificial Intelligence & Data Science"><a href="https://github.com/PrajienKanth"><img src="./Prajienkanth.jpg" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
+     alt="Prajienkanth - Artificial Intelligence & Data Science"><a href="https://github.com/PrajienKanth"><img src="./Prajienkanth.JPG" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
 
 Artificial Intelligence & Data Science
 

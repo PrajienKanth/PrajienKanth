@@ -1,7 +1,4 @@
-<div align="center"><!-- =====================================================
-     HERO
-     Replace YOUR_HERO_IMAGE_URL with your own image.
-     ===================================================== --><a href="https://github.com/PrajienKanth"><img src="YOUR_HERO_IMAGE_URL" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
+<div align="center">https://drive.google.com/file/d/1NuIWglmmqYkdcijDJ6qKsG3C7MrFACPE/view?usp=drivesdk<a href="https://github.com/PrajienKanth"><img src="YOUR_HERO_IMAGE_URL" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
 
 Artificial Intelligence & Data Science
 

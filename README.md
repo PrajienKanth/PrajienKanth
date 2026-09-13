@@ -1,4 +1,6 @@
-<div align="center">https://drive.google.com/file/d/1NuIWglmmqYkdcijDJ6qKsG3C7MrFACPE/view?usp=drivesdk<a href="https://github.com/PrajienKanth"><img src="YOUR_HERO_IMAGE_URL" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
+<div align="center"><img src="./github-banner.png"
+     width="100%"
+     alt="Prajienkanth - Artificial Intelligence & Data Science"><a href="https://github.com/PrajienKanth"><img src="./Prajienkant.JPG" width="100%" alt="Prajienkanth - Artificial Intelligence & Data Science"/></a><br>Hi, I'm Prajienkanth B 👋
 
 Artificial Intelligence & Data Science
 
@@ -9,7 +11,7 @@ Python · SQL · Data Analytics · Machine Learning · AI
 </a><a href="mailto:prajienkanth@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a><a href="https://github.com/PrajienKanth?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Projects-1717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a><br><br>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,pandas,sklearn,flask,html,css,git,github" alt="Technologies"></div>---

@@ -5,7 +5,7 @@ width="100%"
 alt="Prajienkanth B - Artificial Intelligence & Data Science">
 
 </a><br><table>
-<tr><td width="25%" align="center"><img src="./profile.png"
+<tr><td width="25%" align="center"><img src="./profile.JPG"
 width="150"
 alt="Prajienkanth B">
 
